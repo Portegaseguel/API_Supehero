@@ -1,0 +1,10 @@
+/* Estilo para la tarjeta del superhéroe */
+.card {
+    margin-bottom: 20px;
+  }
+  
+  /* Centrar el contenido del gráfico */
+  #heroChartContainer {
+    margin-top: 40px;
+  }
+  
